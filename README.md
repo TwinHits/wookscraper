@@ -5,5 +5,5 @@ terminal by webscrapping Wookieepedia's article on the subject.
 
 python3 wookscraper.py Corran_Horn
 
-Required Beautiful Soup and urllib to run.
+Requires Beautiful Soup and urllib to run.
 
